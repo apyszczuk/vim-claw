@@ -1,4 +1,4 @@
-" Claw - Cursor Line Active Window
+" vim-claw - Cursor Line Active Window
 "
 " Author:     Artur Pyszczuk <apyszczuk@gmail.com>
 " License:    Same terms as Vim itself
